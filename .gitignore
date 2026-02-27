@@ -1,5 +1,6 @@
 # Custom
 _data/
+mlflow.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
