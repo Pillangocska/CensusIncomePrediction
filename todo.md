@@ -1,20 +1,9 @@
-# EDA
-- Diagrams
-
-# Preprocessing
-- One Hot Encoding
-
 # Modeling
-- Decision Tree
-- Random Forest
-- XGBoost
 - Extra Trees (Extremely Randomized Trees)
-
-# Evaluation
-- Min 2 model comparison
+- MLFlow bekötése
+- All 3 models comparison
 
 # MLOps
-- MLFlow bekötése
 - Web Application
 
 # Docs
