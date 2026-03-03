@@ -1,6 +1,12 @@
 # Custom
 _data/
 
+# MLflow
+mlruns/
+mlflow.db
+notebook/mlruns/
+notebook/mlflow.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
